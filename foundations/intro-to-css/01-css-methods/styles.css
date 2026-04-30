@@ -1,0 +1,21 @@
+
+/* a red background, white text, a font size of 32px, center aligned, and bold */
+
+.external{
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* `p`: a green background, white text, and a font size of 18px */
+
+p{
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+
+/* `button`: an orange background and a font size of 18px - added directly on html file */
+
